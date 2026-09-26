@@ -1,0 +1,7 @@
+{
+  "name": "Henry VIII and His Six Wives",
+  "description": "An interactive educational guide and quiz about Henry VIII and his six wives, their fates, and historical legacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
